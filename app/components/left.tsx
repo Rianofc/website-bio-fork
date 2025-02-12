@@ -10,7 +10,7 @@ export default function Left() {
           className="h-60 w-full bg-banner"
         >
           <video className="w-full h-[200px] object-cover" loop autoPlay muted>
-            <source src="https://files.catbox.moe/su17ug.mp4" />
+            <source src="https://files.catbox.moe/kczxy8.mp4" />
             Maaf tampaknya browser anda tidak support tag video
           </video>
         </div>
@@ -20,7 +20,7 @@ export default function Left() {
               <div className="relative">
                 <img
                   className="rounded-full border-4 border-solid border-primary bg-primary object-cover"
-                  src="/image.png"
+                  src="https://files.catbox.moe/fpte7r.jpg"
                   alt="profile"
                   width={100}
                   height={100}
@@ -30,7 +30,7 @@ export default function Left() {
                 <div className="mb-1 flex flex-col">
                   <div className="mt-1 flex flex-row items-center justify-center">
                     <span className="flex text-center text-2xl font-bold leading-tight text-zinc-300">
-                      Fahmi XD
+                      Rian
                     </span>
                     <div>
                       <svg
@@ -48,7 +48,7 @@ export default function Left() {
                     <a
                       rel="noopener noreferrer nofollow"
                       target="_blank"
-                      href="https://github.com/Fahmi-XD"
+                      href="https://github.com/Rianofc"
                     >
                       信じてください、無駄なことなど何もないのです
                     </a>
@@ -161,7 +161,7 @@ export default function Left() {
 
                       <div className="bg-animate group mb-8 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-800 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
-                          href="https://github.com/Fahmi-XD/cScrape"
+                          href="https://github.com/Rianofc"
                           target="_blank"
                           rel="noopener noreferrer nofollow"
                           className="w-full transition-all sm:hover:opacity-70"
@@ -178,10 +178,10 @@ export default function Left() {
                                     cScrape
                                   </span>
                                   <span
-                                    title="Web Scraping"
+                                    title="Akun Github"
                                     className="xs:w-[220px] truncate mt-1 w-[175px] text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                   >
-                                    Kumpulan kode scrape yang dibuat menggunakan nodejs.
+                                    akun github saya kalau mau mampir silahkan
                                   </span>
                                 </div>
                               </div>
@@ -217,7 +217,7 @@ export default function Left() {
 
                       <div className="bg-animate group mb-3 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-800 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
-                          href="https://github.com/ditzDev/shikimori"
+                          href="https://wa.me/6281529369273"
                           target="_blank"
                           rel="noopener noreferrer nofollow"
                           className="w-full transition-all sm:hover:opacity-70"
@@ -231,7 +231,7 @@ export default function Left() {
                                     title="Nothing"
                                     className="text-ellipsis text-[16px] text-zinc-400"
                                   >
-                                    Shikimori Bot
+                                    Zafira Bot
                                   </span>
                                   <span
                                     title="Whatsapp bot"
@@ -282,7 +282,7 @@ export default function Left() {
               <div className="container mx-auto text-center opacity-60">
                 Thanks to <a className="text-blue-500 hover:text-opacity-50" href="https://github.com/lrmn7">L RMN7</a>
                 <p className="text-gray text-s">
-                  © 2025 L RMN. All rights reserved.
+                  © 2025 lrmn7. All rights reserved.
                 </p>
               </div>
             </footer>
